@@ -4,7 +4,7 @@ A simple employee management tool that can store & list information of all emplo
 ● Features: Employees listing, Employee details, CRUD of an employee
 
 # screens
-![screens](assets/IMG_20210915_224929.jpg)
+![screens](assets/IMG_20210915_225328.jpg)
 
 # Development
 
